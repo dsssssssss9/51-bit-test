@@ -7,7 +7,4 @@ let colorbit_51bit: colorbit.Strip = null
 colorbit_51bit = colorbit.initColorBit(DigitalPin.P1, BitColorMode.RGB)
 colorbit_51bit.clear()
 colorbit_51bit.showScrollStringColor("Hello!", colorbit.colors(BitColors.Red))
-colorbit_51bit.setBrightness(128)
-basic.forever(function () {
-	
-})
+colorbit_51bit.setBrightness(32)
