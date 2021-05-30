@@ -1,5 +1,5 @@
 {
-    "name": "51 bit test",
+    "name": "51 bit video 1",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "3.1.86",
+        "target": "3.1.87",
         "targetId": "microbit"
     },
     "supportedTargets": [
